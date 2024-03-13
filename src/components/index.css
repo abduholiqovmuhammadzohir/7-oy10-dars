@@ -1,0 +1,26 @@
+.card{
+    color: #394E6A;
+    border: none;
+    box-shadow: -1px 16px 47px -8px rgba(173,157,157,0.75);
+    margin-bottom:30px;
+    margin-right: 30px;
+    border-radius: 15px;
+    transition: all 1s;
+}
+
+.card img{
+    border-radius: 10px;
+}
+
+.card:hover {
+    cursor: pointer;
+    box-shadow: -1px 16px 60px -3px rgba(129,119,119,0.75);
+}
+
+.header{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

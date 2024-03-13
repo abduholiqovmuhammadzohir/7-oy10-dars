@@ -1,0 +1,26 @@
+.info h3{
+    color: #394E6A;
+    font-weight: 600;
+    font-size: 35px;
+}
+.info h5{
+    color: #394E6A;
+    font-size: 20px;
+}
+
+.info{
+    margin-left: 100px;
+}
+
+.info h4{
+    color: #C7C9D1;
+    font-weight: 600;
+    font-size:25px;
+}
+
+.info .des{
+    width:500px;
+    line-height: 40px;
+    color: #677990;
+    font-size: 16px;
+}
